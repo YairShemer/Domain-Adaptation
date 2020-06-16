@@ -11,9 +11,8 @@
 * [Deep CORAL: Correlation Alignment for Deep(2016)Domain Adaptation](https://arxiv.org/pdf/1607.01719.pdf)
 * [Learning from Synthetic Animals (CVPR 2020)](https://arxiv.org/pdf/1912.08265.pdf)
 
-<br />
+
 ## Tutorials, blogs and more
 * [A collection of AWESOME things about domian adaptation (github)](https://github.com/zhaoxin94/awesome-domain-adaptation#theory)
 
-<br />
 ## Code
