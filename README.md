@@ -9,4 +9,4 @@
 * [Deep CORAL: Correlation Alignment for Deep(2016)Domain Adaptation](https://arxiv.org/pdf/1607.01719.pdf)
 
 ## Tutorials, blogs and more
-* [A collection of AWESOME things about domian adaptation (github](https://github.com/zhaoxin94/awesome-domain-adaptation#theory)
+* [A collection of AWESOME things about domian adaptation (github)](https://github.com/zhaoxin94/awesome-domain-adaptation#theory)
