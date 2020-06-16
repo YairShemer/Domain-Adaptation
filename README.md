@@ -16,3 +16,4 @@
 * [A collection of AWESOME things about domian adaptation (github)](https://github.com/zhaoxin94/awesome-domain-adaptation#theory)
 
 ## Code
+[Learning from Synthetic Animals (github)](https://github.com/JitengMu/Learning-from-Synthetic-Animals)
