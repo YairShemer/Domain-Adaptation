@@ -2,10 +2,13 @@
 
 ## Papers
 * [Unsupervised Domain Adaptation by Backpropagation (2015)](https://arxiv.org/pdf/1409.7495.pdf)  
-  * Train a NN to discriminate between different calasses while being invariant with respect to the shift between the domains.
+  * Train a NN to discriminate between different classes while being invariant with respect to the shift between the domains.
   * Simple and easy to implement.
 * [Unsupervised Pixel-Level Domain Adaptation With Generative Adversarial Networks (2017)](http://openaccess.thecvf.com/content_cvpr_2017/html/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.html)  
-  * [CVPR oral lecture](https://www.youtube.com/watch?v=VhsTrWPvjcA)
+  * [CVPR 2017 oral](https://www.youtube.com/watch?v=VhsTrWPvjcA)
+* [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf)  
+  * [CVPR 2018 oral](https://www.youtube.com/watch?v=8mk7i3vGjAM)
+  * Train two different classifiers for the source while maximizing the discrepancy between them. Meanwhile, train the feature generator to minimize the discrepancy. 
 * [Deep visual domain adaptation: A survey, 2018](https://arxiv.org/pdf/1802.03601.pdf)
 * [A Survey on Deep Transfer Learning, 2018](https://arxiv.org/pdf/1808.01974.pdf)
 * [Adversarial Discriminative Domain Adaptation (2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)
@@ -18,7 +21,7 @@ TEXTURE; INCREASING SHAPE BIAS IMPROVES
 ACCURACY AND ROBUSTNESS](https://arxiv.org/pdf/1811.12231.pdf)
 
 ## Tutorials, blogs and more
-* [A collection of AWESOME things about domian adaptation (github)](https://github.com/zhaoxin94/awesome-domain-adaptation#theory)
+* [A collection of AWESOME things about domain adaptation (Github)](https://github.com/zhaoxin94/awesome-domain-adaptation#theory)
 * [Youtube tutorial on DA (classic and theoretical)](https://www.youtube.com/watch?v=F2OJ0fAK46Q&t=3758s)
 
 ## Code
