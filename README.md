@@ -4,6 +4,8 @@
 * [Unsupervised Domain Adaptation by Backpropagation (2015)](https://arxiv.org/pdf/1409.7495.pdf)  
   * Train a NN to discriminate between different calasses while being invariant with respect to the shift between the domains.
   * Simple and easy to implement.
+* [Unsupervised Pixel-Level Domain Adaptation With Generative Adversarial Networks (2017)](http://openaccess.thecvf.com/content_cvpr_2017/html/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.html)  
+  * [CVPR oral lecture](https://www.youtube.com/watch?v=VhsTrWPvjcA)
 * [Deep visual domain adaptation: A survey, 2018](https://arxiv.org/pdf/1802.03601.pdf)
 * [A Survey on Deep Transfer Learning, 2018](https://arxiv.org/pdf/1808.01974.pdf)
 * [Adversarial Discriminative Domain Adaptation (2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)
@@ -17,6 +19,7 @@ ACCURACY AND ROBUSTNESS](https://arxiv.org/pdf/1811.12231.pdf)
 
 ## Tutorials, blogs and more
 * [A collection of AWESOME things about domian adaptation (github)](https://github.com/zhaoxin94/awesome-domain-adaptation#theory)
+* [Youtube tutorial on DA (classic and theoretical)](https://www.youtube.com/watch?v=F2OJ0fAK46Q&t=3758s)
 
 ## Code
 * [Dassl - A PyTorch toolbox for domain adaptation and semi-supervised learning.
