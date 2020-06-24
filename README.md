@@ -8,6 +8,7 @@
   * [CVPR 2017 oral](https://www.youtube.com/watch?v=VhsTrWPvjcA)
 * [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf)  
   * Train two different classifiers for the source while maximizing the discrepancy between them. Meanwhile, train the feature generator to minimize the discrepancy. 
+  * [Code](https://github.com/mil-tokyo/MCD_DA/tree/master/classification)
    * [CVPR 2018 oral](https://www.youtube.com/watch?v=8mk7i3vGjAM)
 * [Deep visual domain adaptation: A survey, 2018](https://arxiv.org/pdf/1802.03601.pdf)
 * [A Survey on Deep Transfer Learning, 2018](https://arxiv.org/pdf/1808.01974.pdf)
