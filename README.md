@@ -1,7 +1,7 @@
 # Domain-Adaptation
 
 ## Papers
-* [Ship classification from overhead imageryusing synthetic data and domain adaptation (2019)](https://arxiv.org/pdf/1905.03894.pdf)
+* [Ship classification from overhead imagery using synthetic data and domain adaptation (2019)](https://arxiv.org/pdf/1905.03894.pdf)
   * Building a large (200k) dataset of sythetic ships and using it to increase classification performance with domain adaptation
 * [Unsupervised Domain Adaptation by Backpropagation (2015)](https://arxiv.org/pdf/1409.7495.pdf)  
   * Train a NN to discriminate between different classes while being invariant with respect to the shift between the domains.
