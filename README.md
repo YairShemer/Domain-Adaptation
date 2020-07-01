@@ -16,7 +16,7 @@
   * Train two different networkes: 1. Generate features that are domain invariant (and also good for the similarity operation mensioned below). 2. Generate features that the similarity between them and the first features indicates the classes. 
   * Show good results on images generated from CAD models.
   * What is the advantage of this method compared to the calssic advarsial approach?
-* [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf)
+* [Domain-Adversarial Training of Neural Networks (2016)](https://arxiv.org/pdf/1505.07818.pdf)
 * [Deep visual domain adaptation: A survey, 2018](https://arxiv.org/pdf/1802.03601.pdf)
 * [A Survey on Deep Transfer Learning, 2018](https://arxiv.org/pdf/1808.01974.pdf)
 * [Adversarial Discriminative Domain Adaptation (2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)
