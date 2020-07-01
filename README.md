@@ -12,6 +12,10 @@
   * Train two different classifiers for the source while maximizing the discrepancy between them. Meanwhile, train the feature generator to minimize the discrepancy. 
   * [Code](https://github.com/mil-tokyo/MCD_DA/tree/master/classification)
    * [CVPR 2018 oral](https://www.youtube.com/watch?v=8mk7i3vGjAM)
+* [Unsupervised Domain Adaptation with Similarity Learning (CVPR 2018)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pinheiro_Unsupervised_Domain_Adaptation_CVPR_2018_paper.pdf)  
+  * Train two different networkes: 1. Generate features that are domain invariant (and also good for the similarity operation mensioned below). 2. Generate features that the similarity between them and the first features indicates the classes. 
+  * Show good results on images generated from CAD models.
+  * What is the advantage of this method compared to the calssic advarsial approach?
 * [Deep visual domain adaptation: A survey, 2018](https://arxiv.org/pdf/1802.03601.pdf)
 * [A Survey on Deep Transfer Learning, 2018](https://arxiv.org/pdf/1808.01974.pdf)
 * [Adversarial Discriminative Domain Adaptation (2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)
