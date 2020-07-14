@@ -6,6 +6,7 @@
 * [Unsupervised Domain Adaptation by Backpropagation (2015)](https://arxiv.org/pdf/1409.7495.pdf)  
   * Train a NN to discriminate between different classes while being invariant with respect to the shift between the domains.
   * Simple and easy to implement.
+  * This paper was extended by a following paper of the same author: [Domain-Adversarial Training of Neural Networks (2016)](https://arxiv.org/pdf/1505.07818.pdf)
 * [Unsupervised Pixel-Level Domain Adaptation With Generative Adversarial Networks (2017)](http://openaccess.thecvf.com/content_cvpr_2017/html/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.html)  
   * [CVPR 2017 oral](https://www.youtube.com/watch?v=VhsTrWPvjcA)
 * [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf)  
@@ -18,7 +19,6 @@
   * What is the advantage of this method compared to the calssic advarsial approach?
 * [Deep CORAL: Correlation Alignment for Deep Domain Adaptation (2016)](https://arxiv.org/pdf/1607.01719.pdf)
   * Minimize a CORAL loss, i.e. minimize the difference between the second moment of the source feautres and the second moment of the target features.
-* [Domain-Adversarial Training of Neural Networks (2016)](https://arxiv.org/pdf/1505.07818.pdf)
 * [Deep visual domain adaptation: A survey, 2018](https://arxiv.org/pdf/1802.03601.pdf)
 * [A Survey on Deep Transfer Learning, 2018](https://arxiv.org/pdf/1808.01974.pdf)
 * [Adversarial Discriminative Domain Adaptation (2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)
