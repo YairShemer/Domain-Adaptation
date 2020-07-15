@@ -24,7 +24,7 @@
   * Minimize a CORAL loss, i.e. minimize the difference between the second moment of the source feautres and the second moment of the target features.
 * [d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding (CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_d-SNE_Domain_Adaptation_Using_Stochastic_Neighborhood_Embedding_CVPR_2019_paper.pdf)
   * Assumes that we have few lables of the target domain (not alwayes true!).
-  * Traines two neural networks to generate features from the source and target domain that will be close to each other.
+  * Traines two neural networks to generate features from the source and target such that features of insntances from the same classes will be close.
   * Good resuls on visDA2017: [86.15%](https://paperswithcode.com/sota/domain-adaptation-on-visda2017). 
 ### Discrepancy Based Methods:
 * [Contrastive Adaptation Network for Unsupervised Domain Adaptation (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)
