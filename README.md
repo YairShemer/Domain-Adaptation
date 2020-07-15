@@ -14,7 +14,6 @@
    * [CVPR 2018 oral](https://www.youtube.com/watch?v=8mk7i3vGjAM)
 * [Unsupervised Domain Adaptation with Similarity Learning (CVPR 2018)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pinheiro_Unsupervised_Domain_Adaptation_CVPR_2018_paper.pdf)  
   * Train two different networkes: 1. Generate features that are domain invariant (and also good for the similarity operation mensioned below). 2. Generate features that the similarity between them and the first features indicates the classes. 
-  * Show good results on images generated from CAD models.
   * What is the advantage of this method compared to the calssic advarsial approach?  
  * [Adversarial Discriminative Domain Adaptation (2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)
 * [Discriminative Adversarial Domain Adaptation (AAAI 2020)](https://arxiv.org/pdf/1911.12036v2.pdf)
