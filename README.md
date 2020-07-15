@@ -24,7 +24,7 @@
   * Augment the synthetic data - "An animal with random poses and random texture is rendered from a random viewpoint for some random lighting
 and a random background image."
 * [Contrastive Adaptation Network for Unsupervised Domain Adaptation (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)
-  * State-of-the-art results on office-31 dataset (90.6%) and visDA2017 (87.2%, 10% above the second!).
+  * State-of-the-art results on office-31 dataset (90.6%) and visDA2017 (87.2%).
 * [Learning Transferable Features with Deep Adaptation Networks (2015)](http://proceedings.mlr.press/v37/long15.pdf)
 * [Deep visual domain adaptation: A survey, 2018](https://arxiv.org/pdf/1802.03601.pdf)
 * [A Survey on Deep Transfer Learning, 2018](https://arxiv.org/pdf/1808.01974.pdf)
