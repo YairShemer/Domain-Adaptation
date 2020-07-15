@@ -26,6 +26,8 @@ and a random background image."
 * [Contrastive Adaptation Network for Unsupervised Domain Adaptation (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)
   * State-of-the-art results on office-31 dataset [(90.6%](https://paperswithcode.com/sota/domain-adaptation-on-office-31)) and visDA2017 ([87.2%](https://paperswithcode.com/sota/domain-adaptation-on-visda2017)).
 * [d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding (CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_d-SNE_Domain_Adaptation_Using_Stochastic_Neighborhood_Embedding_CVPR_2019_paper.pdf)
+  * Assumes that we have few lables of the target domain (not alwayes true!).
+  * Traines two neural networks to generate features from the source and target domain that will be close to each other.
   * Good resuls on visDA2017: [86.15%](https://paperswithcode.com/sota/domain-adaptation-on-visda2017). 
 * [Learning Transferable Features with Deep Adaptation Networks (2015)](http://proceedings.mlr.press/v37/long15.pdf)
 * [Deep visual domain adaptation: A survey, 2018](https://arxiv.org/pdf/1802.03601.pdf)
