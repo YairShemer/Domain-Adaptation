@@ -29,14 +29,14 @@ and a random background image."
   * Assumes that we have few lables of the target domain (not alwayes true!).
   * Traines two neural networks to generate features from the source and target domain that will be close to each other.
   * Good resuls on visDA2017: [86.15%](https://paperswithcode.com/sota/domain-adaptation-on-visda2017). 
-* [Learning Transferable Features with Deep Adaptation Networks (2015)](http://proceedings.mlr.press/v37/long15.pdf)
-* [Deep visual domain adaptation: A survey, 2018](https://arxiv.org/pdf/1802.03601.pdf)
-* [A Survey on Deep Transfer Learning, 2018](https://arxiv.org/pdf/1808.01974.pdf)
 * [Adversarial Discriminative Domain Adaptation (2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)
 * [Discriminative Adversarial Domain Adaptation (AAAI 2020)](https://arxiv.org/pdf/1911.12036v2.pdf)
   * State-of-the-art on Syn2Real - [79.8%](https://paperswithcode.com/sota/synthetic-to-real-translation-on-syn2real-c)(but it is a new dataset, so other methods may be better but didn't try).
 * [Learning Texture Invariant Representationfor Domain Adaptation of Semantic Segmentation (CVPR 2020)](http://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Learning_Texture_Invariant_Representation_for_Domain_Adaptation_of_Semantic_Segmentation_CVPR_2020_paper.pdf)  
   * [Pytorch implementation](https://github.com/JitengMu/Learning-from-Synthetic-Animals)
+* [Learning Transferable Features with Deep Adaptation Networks (2015)](http://proceedings.mlr.press/v37/long15.pdf)
+* [Deep visual domain adaptation: A survey, 2018](https://arxiv.org/pdf/1802.03601.pdf)
+* [A Survey on Deep Transfer Learning, 2018](https://arxiv.org/pdf/1808.01974.pdf)
 * [IMAGENET-TRAINED CNNS ARE BIASED TOWARDS
 TEXTURE; INCREASING SHAPE BIAS IMPROVES
 ACCURACY AND ROBUSTNESS](https://arxiv.org/pdf/1811.12231.pdf)
