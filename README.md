@@ -12,6 +12,8 @@
   * Train two different classifiers for the source while maximizing the discrepancy between them. Meanwhile, train the feature generator to minimize the discrepancy. 
   * [Code](https://github.com/mil-tokyo/MCD_DA/tree/master/classification)
    * [CVPR 2018 oral](https://www.youtube.com/watch?v=8mk7i3vGjAM)
+* [Learning from Synthetic Data: Addressing Domain Shift for SemanticSegmentation (2018)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sankaranarayanan_Learning_From_Synthetic_CVPR_2018_paper.pdf)
+  * A 4 blocks architecture trained separately for bridging the gap between real and fake images (semantic segmentation)   
 * [Unsupervised Domain Adaptation with Similarity Learning (CVPR 2018)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pinheiro_Unsupervised_Domain_Adaptation_CVPR_2018_paper.pdf)  
   * Train two different networkes: 1. Generate features that are domain invariant (and also good for the similarity operation mensioned below). 2. Generate features that the similarity between them and the first features indicates the classes. 
   * What is the advantage of this method compared to the calssic advarsial approach?  
@@ -38,6 +40,7 @@ and a random background image."
   * [Pytorch implementation](https://github.com/JitengMu/Learning-from-Synthetic-Animals)
 * [Ship classification from overhead imagery using synthetic data and domain adaptation (2019)](https://arxiv.org/pdf/1905.03894.pdf)
   * Building a large (200k) dataset of synthetic ships and using it to increase classification performance with domain adaptation
+  * Looks like they just added images to training set, and not a special domain adaptation
 * [IMAGENET-TRAINED CNNS ARE BIASED TOWARDS
 TEXTURE; INCREASING SHAPE BIAS IMPROVES
 ACCURACY AND ROBUSTNESS](https://arxiv.org/pdf/1811.12231.pdf)
