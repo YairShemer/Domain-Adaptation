@@ -32,7 +32,7 @@
   * State-of-the-art results on office-31 dataset [(90.6%](https://paperswithcode.com/sota/domain-adaptation-on-office-31)) and visDA2017 ([87.2%](https://paperswithcode.com/sota/domain-adaptation-on-visda2017)).
 * [Learning Transferable Features with Deep Adaptation Networks (2015)](http://proceedings.mlr.press/v37/long15.pdf)
 ### Others Methods:
-* [Fully Test-time Adaptation by Entropy Minimization](https://arxiv.org/pdf/2006.10726.pdf)
+* [Fully Test-time Adaptation by Entropy Minimization (2020)](https://arxiv.org/pdf/2006.10726.pdf)
   * Apply a few iteration of minimizing the entropy of the NN on the target samples. 
   * Relatively easy to implement and fast.
 * [Learning from Synthetic Animals (CVPR 2020)](https://arxiv.org/pdf/1912.08265.pdf)
